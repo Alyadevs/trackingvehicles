@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C10840CE-D1F3-4FA9-AEAC-5DCB1FA507DD}|TrackingVehicule\\TrackingVehicule.csproj|c:\\users\\alya\\desktop\\master iot 2\\s1\\web service\\trackingvehicule\\trackingvehicule\\services\\mqttservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10840CE-D1F3-4FA9-AEAC-5DCB1FA507DD}|TrackingVehicule\\TrackingVehicule.csproj|solutionrelative:trackingvehicule\\services\\mqttservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10840CE-D1F3-4FA9-AEAC-5DCB1FA507DD}|TrackingVehicule\\TrackingVehicule.csproj|c:\\users\\alya\\desktop\\master iot 2\\s1\\web service\\trackingvehicule\\trackingvehicule\\services\\websockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10840CE-D1F3-4FA9-AEAC-5DCB1FA507DD}|TrackingVehicule\\TrackingVehicule.csproj|solutionrelative:trackingvehicule\\services\\websockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10840CE-D1F3-4FA9-AEAC-5DCB1FA507DD}|TrackingVehicule\\TrackingVehicule.csproj|c:\\users\\alya\\desktop\\master iot 2\\s1\\web service\\trackingvehicule\\trackingvehicule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10840CE-D1F3-4FA9-AEAC-5DCB1FA507DD}|TrackingVehicule\\TrackingVehicule.csproj|solutionrelative:trackingvehicule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10840CE-D1F3-4FA9-AEAC-5DCB1FA507DD}|TrackingVehicule\\TrackingVehicule.csproj|c:\\users\\alya\\desktop\\master iot 2\\s1\\web service\\trackingvehicule\\trackingvehicule\\services\\websocketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10840CE-D1F3-4FA9-AEAC-5DCB1FA507DD}|TrackingVehicule\\TrackingVehicule.csproj|solutionrelative:trackingvehicule\\services\\websocketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10840CE-D1F3-4FA9-AEAC-5DCB1FA507DD}|TrackingVehicule\\TrackingVehicule.csproj|c:\\users\\alya\\desktop\\master iot 2\\s1\\web service\\trackingvehicule\\trackingvehicule\\models\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10840CE-D1F3-4FA9-AEAC-5DCB1FA507DD}|TrackingVehicule\\TrackingVehicule.csproj|solutionrelative:trackingvehicule\\models\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10840CE-D1F3-4FA9-AEAC-5DCB1FA507DD}|TrackingVehicule\\TrackingVehicule.csproj|c:\\users\\alya\\desktop\\master iot 2\\s1\\web service\\trackingvehicule\\trackingvehicule\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10840CE-D1F3-4FA9-AEAC-5DCB1FA507DD}|TrackingVehicule\\TrackingVehicule.csproj|solutionrelative:trackingvehicule\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5143C2EA-7E30-4C20-B95A-484CF89277C0}|Simulateur\\Simulateur.csproj|c:\\users\\alya\\desktop\\master iot 2\\s1\\web service\\trackingvehicule\\simulateur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5143C2EA-7E30-4C20-B95A-484CF89277C0}|Simulateur\\Simulateur.csproj|solutionrelative:simulateur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEEB60BD-987C-4959-92CF-98E203B18D92}|Dashbard\\Dashbard.csproj|c:\\users\\alya\\desktop\\master iot 2\\s1\\web service\\trackingvehicule\\dashbard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEEB60BD-987C-4959-92CF-98E203B18D92}|Dashbard\\Dashbard.csproj|solutionrelative:dashbard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alya\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 362,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebSocketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\TrackingVehicule\\Services\\WebSocketHandler.cs",
+              "RelativeDocumentMoniker": "TrackingVehicule\\Services\\WebSocketHandler.cs",
+              "ToolTip": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\TrackingVehicule\\Services\\WebSocketHandler.cs",
+              "RelativeToolTip": "TrackingVehicule\\Services\\WebSocketHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:08:59.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\TrackingVehicule\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "TrackingVehicule\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\TrackingVehicule\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "TrackingVehicule\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:02:49.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MqttService.cs",
+              "DocumentMoniker": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\TrackingVehicule\\Services\\MqttService.cs",
+              "RelativeDocumentMoniker": "TrackingVehicule\\Services\\MqttService.cs",
+              "ToolTip": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\TrackingVehicule\\Services\\MqttService.cs",
+              "RelativeToolTip": "TrackingVehicule\\Services\\MqttService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:00:29.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebSocketService.cs",
+              "DocumentMoniker": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\TrackingVehicule\\Services\\WebSocketService.cs",
+              "RelativeDocumentMoniker": "TrackingVehicule\\Services\\WebSocketService.cs",
+              "ToolTip": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\TrackingVehicule\\Services\\WebSocketService.cs",
+              "RelativeToolTip": "TrackingVehicule\\Services\\WebSocketService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:59:26.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicles.cs",
+              "DocumentMoniker": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\TrackingVehicule\\Models\\Vehicles.cs",
+              "RelativeDocumentMoniker": "TrackingVehicule\\Models\\Vehicles.cs",
+              "ToolTip": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\TrackingVehicule\\Models\\Vehicles.cs",
+              "RelativeToolTip": "TrackingVehicule\\Models\\Vehicles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:29:14.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Monitor.cs",
+              "DocumentMoniker": "C:\\Users\\Alya\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
+              "ToolTip": "C:\\Users\\Alya\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAawFMAAAA9AAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T22:54:51.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\Dashbard\\Program.cs",
+              "RelativeDocumentMoniker": "Dashbard\\Program.cs",
+              "ToolTip": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\Dashbard\\Program.cs",
+              "RelativeToolTip": "Dashbard\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T21:46:00.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\TrackingVehicule\\Program.cs",
+              "RelativeDocumentMoniker": "TrackingVehicule\\Program.cs",
+              "ToolTip": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\TrackingVehicule\\Program.cs",
+              "RelativeToolTip": "TrackingVehicule\\Program.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAAAOAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T21:41:12.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\Simulateur\\Program.cs",
+              "RelativeDocumentMoniker": "Simulateur\\Program.cs",
+              "ToolTip": "C:\\Users\\Alya\\Desktop\\Master IOT 2\\S1\\web service\\TrackingVehicule\\Simulateur\\Program.cs",
+              "RelativeToolTip": "Simulateur\\Program.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T20:51:24.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

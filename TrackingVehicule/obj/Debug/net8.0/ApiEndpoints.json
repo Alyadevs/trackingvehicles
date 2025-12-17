@@ -1,0 +1,40 @@
+[
+  {
+    "ContainingType": "TrackingVehicule.Controllers.VehicleController\u002B\u003C\u003Ec__DisplayClass0_0",
+    "Method": "\u003CMapVehicleEndpoints\u003Eb__0",
+    "RelativePath": "api/vehicles",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TrackingVehicule.Controllers.VehicleController\u002B\u003C\u003Ec__DisplayClass0_0",
+    "Method": "\u003CMapVehicleEndpoints\u003Eb__1",
+    "RelativePath": "api/vehicles/{id}/command",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
