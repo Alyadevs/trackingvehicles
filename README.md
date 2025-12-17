@@ -98,7 +98,7 @@ Request body:
 }
 
 🏗️ Project Structure
-TrackingVehicule/
+
 <img width="296" height="458" alt="image" src="https://github.com/user-attachments/assets/d82abc64-c3af-4589-8a16-5c68ce1aab0d" />
 
 
