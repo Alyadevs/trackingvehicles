@@ -43,7 +43,9 @@ Automatic rule-based decisions
 Commands sent back to vehicles via MQTT
 
 🌐 WebSocket Real-Time Communication
+
 🔌 WebSocket Endpoint
+
 ws://localhost:5231/ws/vehicles
 
 📤 Message Sent to Clients
@@ -60,6 +62,7 @@ ws://localhost:5231/ws/vehicles
 Connected clients instantly receive vehicle position updates.
 
 📡 MQTT Topics
+
 Purpose	Topic
 Vehicle coordinates	vehicle/{id}/coords
 Vehicle commands	vehicle/{id}/command
@@ -84,6 +87,7 @@ Otherwise	No action
 Commands are automatically published back to the vehicle via MQTT.
 
 🌍 REST API
+
 🔹 Get all vehicles
 GET /api/vehicles
 
