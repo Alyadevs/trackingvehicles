@@ -118,16 +118,20 @@ JSON
 
 Thread-safe collections (ConcurrentDictionary)
 
- Running the Project
-1/ Start MQTT Broker
+▶️ Running the Project
+1. Start MQTT Broker
+
 mosquitto
 
-2/ Run the Backend
+2. Run the Backend
+
 dotnet restore
 dotnet run
-
-3️/ Run Vehicle Simulator
+3️. Run Vehicle Simulator
 dotnet run --project VehicleSimulator
 
-4️/ Run WebSocket Client
+4️. Run WebSocket Client
 dotnet run --project WebSocketClient
+
+
+
