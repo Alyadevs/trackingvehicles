@@ -129,6 +129,7 @@ dotnet restore
 dotnet run
 
 3️. Run Vehicle Simulator
+
 dotnet run --project VehicleSimulator
 
 4️. Run WebSocket Client
